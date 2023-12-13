@@ -1,4 +1,4 @@
-# Canvas Timer
+# Canvas Timer ⏲️:
 
 A simple and beautiful timer implemented using HTML canvas, CSS, and JavaScript.
 
